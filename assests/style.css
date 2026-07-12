@@ -83,4 +83,18 @@
    
  }
 
- 
+ .collection{
+     background-color: rgba(111, 109, 109, 0.523);
+     padding: 50px;
+     text-align: right;
+ }
+
+ .collection a{
+
+     font-size: 15px;
+     color: rgb(12, 12, 12);
+     margin: 20px;
+    font-weight: bold;
+     text-decoration: none;
+     font-style: italic;
+ }
