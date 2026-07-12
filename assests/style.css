@@ -98,3 +98,17 @@
      text-decoration: none;
      font-style: italic;
  }
+
+ .dress1{
+    padding: 50px;
+    display: flex;
+    width: 20px;
+    gap: 200px;
+ }
+
+ .dress2{
+     padding: 50px;
+    display: flex;
+    width: 20px;
+    gap: 155px;
+ }
