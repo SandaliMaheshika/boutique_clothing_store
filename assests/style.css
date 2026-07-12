@@ -16,12 +16,12 @@
             font-size: 20px;
             color: black;
             margin: 20px;
-            text-align: right;
+            text-align: right; rgba(245, 245, 220, 0.271)
             text-decoration: none;
         }
 
         .box {
-            background-color: rgba(245, 245, 220, 0.271);
+            background-color:;
         }
 
         .box h2 {
